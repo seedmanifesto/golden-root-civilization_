@@ -1,0 +1,39 @@
+
+body {
+    background-color: #000;
+    color: #ffd700;
+    font-family: 'Georgia', serif;
+    text-align: center;
+    padding: 2em;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+.invocation {
+    font-size: 1.3em;
+    margin: 1.5em 0;
+    font-style: italic;
+}
+.button {
+    display: inline-block;
+    margin: 1em;
+    padding: 0.6em 1.2em;
+    background-color: #333;
+    color: #ffd700;
+    border: 2px solid #ffd700;
+    text-decoration: none;
+    border-radius: 8px;
+}
+.petals ul {
+    list-style-type: none;
+    padding: 0;
+}
+.petals li {
+    margin: 0.5em 0;
+}
+footer {
+    margin-top: 3em;
+    font-size: 1em;
+    opacity: 0.8;
+}
